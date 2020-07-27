@@ -218,13 +218,13 @@ st.markdown("""
 <body><center>
 <div class="container">
   <a href="https://crop-production-india-nil.herokuapp.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/crop_front.jpg?token=APUTQBN3WRUHWKT4IQ5EI3K7DZO4I" alt="" style="">
+  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/crop_front.jpg" alt="" style="">
   <button class="btn btn-one"><h2 style="color: #ffffb5 ;"><b>Crop Production Data Analysis and Trends Visualization of India</b></h2></button>
   </a>
 </div>
 <div class="container">
   <a href="https://mushroom-classification-nil.herokuapp.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/mushroom_front.jpeg?token=APUTQBLOY37XGN7ZUBEA5W27DZO6S" alt="" style="">
+  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/mushroom_front.jpeg" alt="" style="">
   <button class="btn btn-four"><h2 style="color: #fdb5ff ;"><b>Mushroom Classification Web App</b></h2></button>
   </a>
 </div>
@@ -442,13 +442,13 @@ st.sidebar.markdown("""
 <body><center>
 <div class="container">
   <a href="https://crop-production-india-nil.herokuapp.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/crop_front.jpg?token=APUTQBN3WRUHWKT4IQ5EI3K7DZO4I" alt="" style="">
+  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/crop_front.jpg" alt="" style="">
   <button class="btn btn-one"><h2 style="color: #ffffb5 ;"><b>Crop Production Data Analysis and Trends Visualization of India</b></h2></button>
   </a>
 </div>
 <div class="container">
   <a href="https://mushroom-classification-nil.herokuapp.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/mushroom_front.jpeg?token=APUTQBLOY37XGN7ZUBEA5W27DZO6S" alt="" style="">
+  <img src="https://raw.githubusercontent.com/nilotpalkapri/All_Links_Togather/master/Decorator/mushroom_front.jpeg" alt="" style="">
   <button class="btn btn-four"><h2 style="color: #fdb5ff ;"><b>Mushroom Classification Web App</b></h2></button>
   </a>
 </div>
